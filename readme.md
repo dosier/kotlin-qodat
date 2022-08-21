@@ -1,4 +1,4 @@
-
+Moved to https://github.com/Qodat/qodat
 
 ### Attributions
 
